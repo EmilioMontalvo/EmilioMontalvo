@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emilio Montalvo from Ecuador</h1>
-- 🔭 I’m working on body as an interface game for children with disabilities for controlling the mouse<br>
+<h1 align="center">Hi 👋, I'm Emilio Montalvo</h1>
+- 🔭 I’m working on a body as an interface game for children with disabilities for controlling the mouse<br>
 - 🌱 I’m currently learning MongoDB, Go, Computer Vision<br>
 - 📫 How to reach me emilio.montalvo2@outlook.com
 
